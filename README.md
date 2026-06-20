@@ -7,7 +7,10 @@ Esse repositório é dedicado ao estudo disponibilzado pela Cati Jr para a reali
 ## Ferramentas utilizadas:
 * Python
 * Google Colab / Jupyter Notebook
-* (conforme for aprendendo novas ferramentas / bibliotecas, irei adicionando)
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
 
 ## Estrutura do repositório:
 * **README.md**: Documentação principal do projeto.
