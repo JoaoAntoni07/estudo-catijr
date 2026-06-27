@@ -11,6 +11,7 @@ Esse repositório é dedicado ao estudo disponibilzado pela Cati Jr para a reali
 * Numpy
 * Seaborn
 * Matplotlib
+* Scikit-Learn
 
 ## Estrutura do repositório:
 * **README.md**: Documentação principal do projeto.
